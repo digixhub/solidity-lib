@@ -6,13 +6,19 @@
     "contracts",
     "!contracts/test"
   ],
-
+  "author": {
+    "name": "debo24",
+    "email": "debo.karmakar@gmail.com",
+  },
   "repository": {
-    "url": "https://github.com/debo24/panaromaswap-solidity-lib",
+    "url": "https://github.com/digixhub/solidity-lib",
     "type": "git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/digixhub"
+  },
   "bugs": {
-    "url": "https://github.com/debo24/panaromaswap-solidity-lib/issues"
+    "url": "https://github.com/digixhub/solidity-lib/issues"
   },
   "engines": {
     "node": ">=10"
